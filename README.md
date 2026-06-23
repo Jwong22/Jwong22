@@ -2,7 +2,7 @@
 
 **Cloud Engineer** at Galactic Network · Kuala Lumpur, Malaysia 🇲🇾
 
-I build secure, scalable AWS infrastructure for enterprise clients — from multi-account landing zones to full application migrations.
+I build secure, scalable AWS infrastructure for enterprise clients from multi-account landing zones to full application migrations.
 
 ## 🔧 What I Work With
 
